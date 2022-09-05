@@ -1,12 +1,12 @@
 <html>
 <head>
-    <title>billuuu: success!</title>
+    <title>billu </title>
 </head>
 <body style="text-align: center">
-<h1>mahadev</h1>
+<h1>mahadevaaa</h1>
 <img src="boxfuse.png">
 
-<h2>maaa</h2>
+<h2>billugadu</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
