@@ -3,7 +3,7 @@
     <title>billu </title>
 </head>
 <body style="text-align: center">
-<h1>my love and my besttt</h1>
+<h1>my love and my bestttt</h1>
 <img src="boxfuse.png">
 
 <h2>billugadu</h2>
